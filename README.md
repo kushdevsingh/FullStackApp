@@ -1,6 +1,6 @@
 # FullStackApp
 
-![screenshot](https://github.com/kushdevsingh/FullStackApp/blob/master/fullStackApp.PNG)
+![screenshot](https://github.com/kushdevsingh/FullStackApp/blob/master/fullStackAppImage.PNG)
 
 > Full Stack Application using (Vue,Vue-BootStrap,VueRouter,AXIOS,Spring Boot) Webpack/Maven
 
@@ -32,7 +32,7 @@ mvn clean install
 # maven run
 mvn --projects=backend spring-boot:run
 
-![screenshot](https://github.com/kushdevsingh/FullStackApp/blob/master/mvn-Run.PNG)
+![screenshot](https://github.com/kushdevsingh/FullStackApp/blob/master/mvn-RunImage.PNG)
 
 
 
