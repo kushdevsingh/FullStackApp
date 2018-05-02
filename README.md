@@ -1,12 +1,10 @@
-# FullStackApp
-``` bash
-> Full Stack Application using (Vue,Vue-BootStrap,VueRouter,AXIOS,Spring Boot) Webpack/Maven
-```
-
 ![screenshot](https://github.com/kushdevsingh/FullStackApp/blob/master/fullStackAppImage.PNG)
 
 
-
+# FullStackApp
+``` bash
+Full Stack Application using (Vue,Vue-BootStrap,VueRouter,AXIOS,Spring Boot) Webpack/Maven
+```
 ## Setup
 ``` bash
 # Download Project and Extract
