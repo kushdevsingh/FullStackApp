@@ -1,0 +1,62 @@
+{
+    "elements": {
+        "b-navbar-brand": {},
+        "b-carousel-slide": {},
+        "b-nav-item": {},
+        "router-view": {},
+        "b-breadcrumb": {},
+        "b-alert": {
+            "attributes": {
+                "dismissible": {}
+            }
+        },
+        "b-navbar-toggle": {},
+        "b-collapse": {},
+        "b-col": {},
+        "b-navbar-nav": {},
+        "b-dropdown-item": {},
+        "b-button": {
+            "attributes": {
+                "click": {}
+            }
+        },
+        "b-row": {},
+        "b-navbar": {},
+        "b-nav-item-dropdown": {},
+        "b-card": {},
+        "b-carousel": {},
+        "b-table": {
+            "attributes": {
+                "striped": {},
+                "hover": {},
+                "show-empty": {},
+                "stacked": {},
+                "head-variant": {}
+            }
+        }
+    },
+    "attributes": {
+        "small": {},
+        "v-if": {},
+        "@submit.prevent": {
+            "context": "form"
+        },
+        "v-bind:href": {},
+        "v-for": {},
+        ":href": {},
+        "v-text": {},
+        "v-model": {},
+        "@click": {},
+        "@keyup.enter": {},
+        "scoped": {
+            "context": "style"
+        },
+        "size": {},
+        "variant": {},
+        "slot-scope": {
+            "context": "template"
+        },
+        "sm": {},
+        "class": {}
+    }
+}
