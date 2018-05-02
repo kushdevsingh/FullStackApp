@@ -1,8 +1,10 @@
 # FullStackApp
-
-![screenshot](https://github.com/kushdevsingh/FullStackApp/blob/master/fullStackAppImage.PNG)
-
 > Full Stack Application using (Vue,Vue-BootStrap,VueRouter,AXIOS,Spring Boot) Webpack/Maven
+
+``` bash
+![screenshot](https://github.com/kushdevsingh/FullStackApp/blob/master/fullStackAppImage.PNG)
+```
+
 
 ## Setup
 ``` bash
