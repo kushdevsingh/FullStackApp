@@ -1,6 +1,6 @@
 # FullStackApp
 
-![screenshot](https://github.com/kushdevsingh/FullStackApp/fullStackApp.PNG)
+![screenshot](https://github.com/kushdevsingh/FullStackApp/blob/master/fullStackApp.PNG)
 
 > Full Stack Application using (Vue,Vue-BootStrap,VueRouter,AXIOS,Spring Boot) Webpack/Maven
 
