@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class BackendController {
 
     private static final Logger LOG = LoggerFactory.getLogger(BackendController.class);
-    public static final String HELLO_TEXT = "Hurry !!! Hello from Spring Boot Backend!";
+    public static final String HELLO_TEXT = "Hurray !!! Hello from Spring Boot Backend!";
 
     @RequestMapping(path = "/hello")
     public @ResponseBody String sayHello() {
