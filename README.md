@@ -4,6 +4,11 @@
 
 > Full Stack Application using (Vue,Vue-BootStrap,VueRouter,AXIOS,Spring Boot) Webpack/Maven
 
+## Setup
+``` bash
+# Download Project and Extract
+```
+
 ## Frontend Build Setup
 
 ``` bash
