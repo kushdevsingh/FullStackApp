@@ -31,7 +31,7 @@ mvn clean install
 
 # maven run
 mvn --projects=backend spring-boot:run
-
+```
 ![screenshot](https://github.com/kushdevsingh/FullStackApp/blob/master/mvn-RunImage.PNG)
 
 
